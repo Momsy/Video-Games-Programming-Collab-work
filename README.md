@@ -20,5 +20,5 @@
 <b>  <U> Level 3 : </U> </b>
 ![](pictures/lvl3.png)
 
-<b>  <U> Victory : </U> </b>
+<b>  <U> End : </U> </b>
 ![](pictures/end.png)
