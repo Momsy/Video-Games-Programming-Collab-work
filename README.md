@@ -2,7 +2,7 @@
 
 # 3D-Parkour-Game-by-Mo-&-Ki
 
-<b> <U> Student: Moustapha SY and Kilian Rannou </U> </b>
+<b> <U> Students: Moustapha SY and Kilian Rannou </U> </b>
 ![](pictures/Parkour1.jpg)
 ![](pictures/Parkour2.jpg)
 ![](pictures/Parkour3.jpg)
